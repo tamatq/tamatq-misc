@@ -1,3 +1,5 @@
+# 投稿の備忘管理用のまとめ
+
 - Python
     - [auto reload](https://twitter.com/tamatq1/status/1118297355059482625)
     - [ログフォーマット例](ログフォーマット)
