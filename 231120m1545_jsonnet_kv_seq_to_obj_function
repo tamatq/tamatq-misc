@@ -1,0 +1,4 @@
+local kv_seq_to_obj = function(kv_seq)
+  local fold_func = function(base_obj, key_value)
+    base_obj { [key_value[0]]: key_value[1] };
+  std.foldl(fold_func, kv_seq, {});
